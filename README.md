@@ -1,6 +1,9 @@
 # MedVec-Scratch
 **MedVec-Scratch** is a custom sentence embedding model architected purely in PyTorch without relying on pre-trained backbones. It features a custom BPE tokenizer and a Siamese Transformer Encoder trained on a 233k medical triplet dataset. The model utilizes Mean Pooling and Triplet Margin Loss to achieve high-quality semantic retrieval for clinical queries.
 
+![MedVecArchitecture](./assets/MedVec-scratch.png)
+
+
 Dataset_url - https://huggingface.co/datasets/abhinand/MedEmbed-training-triplets-v1
 
 ## Key Features:
