@@ -3,6 +3,7 @@
 
 ![MedVecArchitecture](./assets/MedVec-scratch.png)
 
+Colab-Notebook-link - https://colab.research.google.com/drive/1apmVMRNxpeVr3H51ndK1Kn5OEAvQyM5p?usp=sharing
 
 Dataset_url - https://huggingface.co/datasets/abhinand/MedEmbed-training-triplets-v1
 
